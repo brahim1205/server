@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: private
     name: postgres-docker
     env: docker
     plan: free
